@@ -6,7 +6,7 @@
 	  <?php include 'css_include.php';?>
 	  <style type="text/css">
             body{
-    text-align: center;
+    text-align: right;
     background: white;
   font-family: sans-serif;
   font-weight: 100;
